@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>LineLoop</title>
+        <item>
+            <title>1.21.2</title>
+            <pubDate>Wed, 14 Oct 2026 23:14:52 +0800</pubDate>
+            <link>https://yvqi-dev.github.io/LineLoop-Downloads/</link>
+            <sparkle:version>31</sparkle:version>
+            <sparkle:shortVersionString>1.21.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/yvqi-dev/LineLoop-Downloads/releases/download/v1.21.2/LineLoop-1.21.2-arm64.dmg" length="238586557" type="application/octet-stream" sparkle:edSignature="X8NkujvinkbW6eS+YlnX/Imqm69e6XdvmizBKn8CjUbeAU/tPAVgNqIfvzdA2bG/FhHfGrUx2OVmiYSs3kpGDA=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: ZNY4VpsWzt+K4WqAdKovP5Ia5oJqZu2KW6PIqLo4ST+vDMsolZmOv0Xo2DiXUuQQ0mC5+2afOo9yXbdftNkrDw==
+length: 1215
+-->

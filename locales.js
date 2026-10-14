@@ -14,7 +14,6 @@ LineLoop 帮你整理句子、跟随单词，再按你的节奏反复播放。|L
 免费下载 Mac 版|免費下載 Mac 版|Download free for Mac|Descarga gratis para Mac|Télécharger gratuitement pour Mac|Kostenlos für Mac laden|Скачать бесплатно для Mac
 看看它怎么工作|看看它怎麼運作|See how it works|Descubre cómo funciona|Voir comment ça marche|So funktioniert's|Посмотрите, как это работает
 Apple 芯片 Mac|Apple 晶片 Mac|Apple silicon Mac|Mac con chip Apple|Mac avec puce Apple|Mac mit Apple Chip|Mac с чипом Apple
-已签名公证|已簽署並公證|Signed and notarized|Firmada y notarizada|Signée et notarisée|Signiert und notarisiert|Подписано и нотариально заверено
 逐句学习|逐句學習|Sentence study|Estudio por frases|Étude par phrases|Sätze üben|Изучение по предложениям
 逐句文本|逐句文本|Transcript|Transcripción|Transcription|Transkript|Текст по предложениям
 播放顺序与次数由你设置|播放順序與次數由你設定|Choose the order and repeat count|Elige el orden y las repeticiones|Choisissez l'ordre et les répétitions|Reihenfolge und Wiederholungen selbst wählen|Выбирайте порядок и число повторов
@@ -76,11 +75,9 @@ LineLoop 整理句子与中文译文；时间不准时，你可以自己调整�
 下一句，|下一句，|The next sentence|La próxima frase|La prochaine phrase|Der nächste Satz|Следующее предложение
 现在开始听懂。|現在開始聽懂。|starts making sense now.|empieza a cobrar sentido.|devient claire dès maintenant.|wird jetzt verständlich.|станет понятным уже сейчас.
 下载后拖入“应用程序”，就可以把喜欢的视频变成自己的语言练习。|下載後拖入「應用程式」，就可以把喜歡的影片變成自己的語言練習。|Download, drag into Applications, and turn your favorite videos into your own language practice.|Descarga, arrastra a Aplicaciones y convierte tus vídeos favoritos en práctica de idiomas.|Téléchargez, glissez dans Applications et faites de vos vidéos préférées vos exercices de langue.|Laden, in Programme ziehen und Lieblingsvideos in deine Sprachübungen verwandeln.|Скачайте, перенесите в «Программы» и превратите любимые видео в свои языковые упражнения.
-下载 LineLoop 1.21.1|下載 LineLoop 1.21.1|Download LineLoop 1.21.1|Descargar LineLoop 1.21.1|Télécharger LineLoop 1.21.1|LineLoop 1.21.1 laden|Скачать LineLoop 1.21.1
-Apple 芯片 · macOS 15 或更新版本 · 已签名公证|Apple 晶片 · macOS 15 或更新版本 · 已簽署並公證|Apple silicon · macOS 15 or later · Signed and notarized|Chip Apple · macOS 15 o posterior · Firmada y notarizada|Puce Apple · macOS 15 ou plus récent · Signée et notarisée|Apple Chip · macOS 15 oder neuer · Signiert und notarisiert|Чип Apple · macOS 15 и новее · Подписано и нотариально заверено
+下载 LineLoop 1.21.2|下載 LineLoop 1.21.2|Download LineLoop 1.21.2|Descargar LineLoop 1.21.2|Télécharger LineLoop 1.21.2|LineLoop 1.21.2 laden|Скачать LineLoop 1.21.2
+Apple 芯片 · macOS 15 或更新版本|Apple 晶片 · macOS 15 或更新版本|Apple silicon · macOS 15 or later|Chip Apple · macOS 15 o posterior|Puce Apple · macOS 15 ou plus récent|Apple Chip · macOS 15 oder neuer|Чип Apple · macOS 15 и новее
 让好奇心，带你听见更多。|讓好奇心，帶你聽見更多。|Let curiosity lead you to more.|Deja que la curiosidad te lleve más lejos.|Laissez la curiosité vous mener plus loin.|Lass dich von deiner Neugier weiterführen.|Пусть любопытство откроет вам больше.
-版本记录|版本記錄|Release notes|Notas de versión|Notes de version|Versionshinweise|История версий
-第三方许可|第三方授權|Third-party licenses|Licencias de terceros|Licences tierces|Lizenzen Dritter|Лицензии третьих сторон
 视频语言|影片語言|Video language|Idioma del vídeo|Langue de la vidéo|Videosprache|Язык видео
 主导航|主導覽|Main navigation|Navegación principal|Navigation principale|Hauptnavigation|Основная навигация
 LineLoop 首页|LineLoop 首頁|LineLoop home|Inicio de LineLoop|Accueil LineLoop|LineLoop Startseite|Главная LineLoop

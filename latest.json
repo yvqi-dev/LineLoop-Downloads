@@ -1,7 +1,7 @@
 {
-  "version": "1.21.1",
-  "build": 30,
+  "version": "1.21.2",
+  "build": 31,
   "minimumMacOS": "15.0",
-  "downloadURL": "https://github.com/yvqi-dev/LineLoop-Downloads/releases/download/v1.21.1/LineLoop-1.21.1-arm64.dmg",
-  "releaseNotesURL": "https://github.com/yvqi-dev/LineLoop-Downloads/releases/tag/v1.21.1"
+  "downloadURL": "https://github.com/yvqi-dev/LineLoop-Downloads/releases/download/v1.21.2/LineLoop-1.21.2-arm64.dmg",
+  "releaseNotesURL": "https://github.com/yvqi-dev/LineLoop-Downloads/releases/tag/v1.21.2"
 }
