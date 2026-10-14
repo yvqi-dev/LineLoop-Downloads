@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-label="LineLoop 青蛙戴着耳机坐在街边，身旁是咖啡馆和卡通城市">
+  <rect width="1600" height="900" fill="#dcefe5"/>
+  <circle cx="1285" cy="168" r="104" fill="#ffe0a6"/>
+  <path d="M0 472c238-76 394-42 594 6 230 55 487-58 1006-8v430H0z" fill="#b8dec7"/>
+  <path d="M0 553c312-52 530 15 784 36 299 26 491-46 816-2v313H0z" fill="#8fc8ac"/>
+  <g fill="#f8fff3">
+    <path d="M144 152c0-33 27-60 60-60 18 0 35 8 46 21 14-17 35-28 58-28 39 0 71 32 71 71H144z"/>
+    <path d="M997 87c0-25 20-45 45-45 14 0 27 6 35 16 11-14 28-22 47-22 31 0 56 25 56 56H997z"/>
+  </g>
+  <g stroke="#274a3c" stroke-width="9" stroke-linejoin="round">
+    <path d="M0 435h340V139H0z" fill="#f1d6bf"/>
+    <path d="M0 162h341" fill="none"/>
+    <rect x="66" y="215" width="83" height="112" rx="12" fill="#faecda"/>
+    <rect x="191" y="215" width="83" height="112" rx="12" fill="#faecda"/>
+    <path d="M343 475h397V234H343z" fill="#f9e7ca"/>
+    <path d="M343 268h397v77H343z" fill="#e58b73"/>
+    <path d="M342 344h398" fill="none"/>
+    <path d="M363 344h56v36a28 28 0 0 1-56 0zM419 344h56v36a28 28 0 0 1-56 0zM475 344h56v36a28 28 0 0 1-56 0zM531 344h56v36a28 28 0 0 1-56 0zM587 344h56v36a28 28 0 0 1-56 0zM643 344h56v36a28 28 0 0 1-56 0z" fill="#fff6e8"/>
+    <path d="M398 475V378h115v97" fill="#e7f3ec"/>
+    <path d="M551 475V378h128v97" fill="#e7f3ec"/>
+    <path d="M410 421h91M615 378v97" fill="none"/>
+    <path d="M742 459h218V113H742z" fill="#dbcfe8"/>
+    <rect x="797" y="178" width="106" height="92" rx="11" fill="#f7f4ef"/>
+    <rect x="797" y="306" width="106" height="92" rx="11" fill="#f7f4ef"/>
+    <path d="M850 178v92m-53-46h106m-53 82v92m-53-46h106" fill="none"/>
+    <path d="M976 484h289V307H976z" fill="#ffdfb8"/>
+    <rect x="1026" y="357" width="87" height="99" rx="9" fill="#fff6e8"/>
+    <rect x="1154" y="357" width="61" height="99" rx="9" fill="#fff6e8"/>
+  </g>
+  <path d="M0 637c375-43 622 10 923 7 276-3 476-27 677-6v262H0z" fill="#f4e5cf"/>
+  <path d="M0 700c313-32 531 12 846 4 373-10 511-27 754-4" stroke="#d3bc9e" stroke-width="12" fill="none"/>
+  <g stroke="#315745" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M104 615c-18-111-36-177-79-238M114 579c25-108 41-175 71-222" fill="none"/>
+    <path d="M29 392c-28-29-25-67 10-78 27-9 41 6 51 17 4-54 66-60 83-18 21-18 58-7 60 23 2 31-24 49-62 47-13 44-59 55-83 29-21 8-42 1-59-20z" fill="#5fac7c"/>
+    <path d="M1410 615c3-91 10-194 42-281" fill="none"/>
+    <path d="M1371 388c-26-36 2-75 42-66 15-47 77-52 95-8 41-8 67 25 49 59 30 35-2 85-45 78-21 37-64 40-87 4-30 16-65-13-54-45z" fill="#76b88c"/>
+    <path d="M1252 609h-183m11 0-12 73m167-73 14 73" fill="none"/>
+    <path d="M1071 623h180" fill="none"/>
+  </g>
+  <g stroke="#244936" stroke-width="11" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M1205 775c-16-82-4-163 48-195 47-29 147-26 198 6 44 28 59 112 38 189z" fill="#43c900"/>
+    <path d="M1229 618c-30 5-49 34-47 69 4 39 28 45 50 47M1479 620c30 7 50 39 45 74-5 30-20 43-40 44" fill="#43c900"/>
+    <path d="M1275 583c-30-39-13-96 32-104 25-5 45 6 56 25 16-23 41-32 66-24 43 14 50 65 23 103" fill="#43c900"/>
+    <ellipse cx="1359" cy="602" rx="139" ry="111" fill="#43c900"/>
+    <circle cx="1305" cy="542" r="31" fill="#fff"/>
+    <circle cx="1413" cy="542" r="31" fill="#fff"/>
+    <circle cx="1310" cy="548" r="13" fill="#244936" stroke="none"/>
+    <circle cx="1418" cy="548" r="13" fill="#244936" stroke="none"/>
+    <path d="M1312 633c29 28 85 31 116-1" fill="none"/>
+    <path d="M1404 651c5 23 24 26 35 2" fill="#ffad38"/>
+    <path d="M1233 571c-6-72 41-127 125-127 80 0 130 55 126 127M1232 572h-25v75h28m251-75h25v75h-28" fill="none" stroke="#273d36" stroke-width="21"/>
+    <path d="M1270 777l-48 52m231-52 48 52" fill="none"/>
+  </g>
+  <g stroke="#2a5140" stroke-width="8" fill="none" stroke-linecap="round">
+    <path d="M1094 417c33-35 35-78 4-113"/>
+    <path d="M1132 433c49-48 52-104 8-151"/>
+    <path d="M1168 449c68-61 75-136 18-197"/>
+  </g>
+  <g fill="#264c3b"><circle cx="337" cy="783" r="13"/><circle cx="377" cy="809" r="8"/><circle cx="901" cy="779" r="10"/></g>
+</svg>
