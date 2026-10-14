@@ -1,0 +1,7 @@
+# LineLoop
+
+这是 LineLoop 的官网下载页与 macOS 安装包发布仓库。应用适用于 Apple 芯片 Mac 和 macOS 15 或更新版本。下载入口会在公证与安装测试通过后开放。
+
+LineLoop 把用户选择的视频整理为可逐句循环的听力练习，支持英语、西班牙语、法语、德语、俄语和中文翻译。语音识别在本机完成。
+
+第三方组件及许可证见 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。应用源码保存在独立的私人仓库；本仓库只包含网站和发布资源。
