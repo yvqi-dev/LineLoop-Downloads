@@ -75,7 +75,7 @@ LineLoop 整理句子与中文译文；时间不准时，你可以自己调整�
 下一句，|下一句，|The next sentence|La próxima frase|La prochaine phrase|Der nächste Satz|Следующее предложение
 现在开始听懂。|現在開始聽懂。|starts making sense now.|empieza a cobrar sentido.|devient claire dès maintenant.|wird jetzt verständlich.|станет понятным уже сейчас.
 下载后拖入“应用程序”，就可以把喜欢的视频变成自己的语言练习。|下載後拖入「應用程式」，就可以把喜歡的影片變成自己的語言練習。|Download, drag into Applications, and turn your favorite videos into your own language practice.|Descarga, arrastra a Aplicaciones y convierte tus vídeos favoritos en práctica de idiomas.|Téléchargez, glissez dans Applications et faites de vos vidéos préférées vos exercices de langue.|Laden, in Programme ziehen und Lieblingsvideos in deine Sprachübungen verwandeln.|Скачайте, перенесите в «Программы» и превратите любимые видео в свои языковые упражнения.
-下载 LineLoop 1.21.2|下載 LineLoop 1.21.2|Download LineLoop 1.21.2|Descargar LineLoop 1.21.2|Télécharger LineLoop 1.21.2|LineLoop 1.21.2 laden|Скачать LineLoop 1.21.2
+下载 LineLoop 1.21.3|下載 LineLoop 1.21.3|Download LineLoop 1.21.3|Descargar LineLoop 1.21.3|Télécharger LineLoop 1.21.3|LineLoop 1.21.3 laden|Скачать LineLoop 1.21.3
 Apple 芯片 · macOS 15 或更新版本|Apple 晶片 · macOS 15 或更新版本|Apple silicon · macOS 15 or later|Chip Apple · macOS 15 o posterior|Puce Apple · macOS 15 ou plus récent|Apple Chip · macOS 15 oder neuer|Чип Apple · macOS 15 и новее
 让好奇心，带你听见更多。|讓好奇心，帶你聽見更多。|Let curiosity lead you to more.|Deja que la curiosidad te lleve más lejos.|Laissez la curiosité vous mener plus loin.|Lass dich von deiner Neugier weiterführen.|Пусть любопытство откроет вам больше.
 视频语言|影片語言|Video language|Idioma del vídeo|Langue de la vidéo|Videosprache|Язык видео
