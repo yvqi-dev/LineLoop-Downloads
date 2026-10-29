@@ -7,9 +7,9 @@
   <meta name="description" content="LineLoop 把喜欢的视频变成逐句循环的听力练习。听真实原声，看单词跟随，按自己的节奏反复练习。">
   <title>LineLoop — 把喜欢的视频，一句一句听懂</title>
   <link rel="icon" type="image/png" href="assets/logo.png">
-  <link rel="stylesheet" href="styles.css?v=1.21.3-i18n">
-  <script src="locales.js?v=1.21.3-i18n" defer></script>
-  <script src="app.js?v=1.21.3-i18n" defer></script>
+  <link rel="stylesheet" href="styles.css?v=1.22.0-i18n">
+  <script src="locales.js?v=1.22.0-i18n" defer></script>
+  <script src="app.js?v=1.22.0-i18n" defer></script>
 </head>
 <body>
   <header class="site-header" id="top">
@@ -31,7 +31,7 @@
         <h1 id="hero-title">把喜欢的视频，<br><span>一句一句听懂。</span></h1>
         <p class="hero-lead">从喜欢的 Vlog 开始，听真实的人怎么说。<br class="desktop-break"> LineLoop 帮你整理句子、跟随单词，再按你的节奏反复播放。</p>
         <div class="hero-actions">
-          <a class="button button-dark" href="https://github.com/yvqi-dev/LineLoop-Downloads/releases/download/v1.21.3/LineLoop-1.21.3-arm64.dmg">免费下载 Mac 版 <span aria-hidden="true">↗</span></a>
+          <a class="button button-dark" href="https://github.com/yvqi-dev/LineLoop-Downloads/releases/download/v1.22.0/LineLoop-1.22.0-arm64.dmg">免费下载 Mac 版 <span aria-hidden="true">↗</span></a>
           <a class="text-link" href="#how-it-works">看看它怎么工作 <span aria-hidden="true">↓</span></a>
         </div>
         <p class="hero-meta"><span>Apple 芯片 Mac</span><span>macOS 15+</span></p>
@@ -119,7 +119,7 @@
         <div class="feature-copy">
           <p class="section-kicker">02 / FOLLOW EVERY WORD</p>
           <h2 id="follow-title">声音往前走，<br>文字<span>跟得上。</span></h2>
-          <p>读到哪个词，字幕就亮到哪里。自动切句有偏差？直接拖动时间标记，看着波形微调，让下一遍刚好从你要的地方开始。</p>
+          <p>自动合并连续的半句话，按时长或词数跳过短句。字幕跟随原声高亮，也能拖动时间标记，看着波形微调。</p>
         </div>
       </div>
     </section>
@@ -129,11 +129,11 @@
         <div class="feature-copy">
           <p class="section-kicker">03 / KEEP THE MOMENTUM</p>
           <h2 id="library-title">喜欢的视频，<br><em>都留在这里。</em></h2>
-          <p>从今天看的 Vlog 到上周的访谈，已导入的视频都在你的资料库。随时切换，接着上次那一句继续。</p>
+          <p>从今天看的 Vlog 到上周的访谈，已导入的视频都在你的资料库。随时切换，继续逐句练习。</p>
         </div>
         <div class="library-preview" aria-label="视频库界面示意">
           <div class="library-heading"><strong>我的视频</strong><span>继续学习 ↗</span></div>
-          <div class="library-item"><img src="assets/frog-vlog.svg" width="118" height="78" alt=""><div><span>ENGLISH · VLOG</span><strong>A slow afternoon in the city</strong><small>接着学习 · 第 18 句</small></div><b>↗</b></div>
+          <div class="library-item"><img src="assets/frog-vlog.svg" width="118" height="78" alt=""><div><span>ENGLISH · VLOG</span><strong>A slow afternoon in the city</strong><small>逐句练习 · 18 句</small></div><b>↗</b></div>
           <div class="library-item"><div class="mini-art mini-art-one" aria-hidden="true"><span>☀</span></div><div><span>ESPAÑOL · DAILY LIFE</span><strong>Un día en la ciudad</strong><small>42 句 · 上次学习昨天</small></div><b>↗</b></div>
           <div class="library-item"><div class="mini-art mini-art-two" aria-hidden="true"><span>♫</span></div><div><span>FRANÇAIS · CONVERSATION</span><strong>Un café, une conversation</strong><small>29 句 · 已加入视频库</small></div><b>↗</b></div>
         </div>
@@ -144,7 +144,7 @@
       <p class="section-kicker">开始很简单</p>
       <h2 id="steps-title">一条链接，<br>一段真正属于你的练习。</h2>
       <div class="steps-grid">
-        <article><span>01</span><h3>选一段视频</h3><p>粘贴喜欢的 YouTube 视频链接，选择实际语言和画质。</p></article>
+        <article><span>01</span><h3>选一段视频</h3><p>粘贴喜欢的 YouTube 或 Bilibili 视频链接，选择实际语言和画质。</p></article>
         <article><span>02</span><h3>让句子慢下来</h3><p>LineLoop 整理句子与中文译文；时间不准时，你可以自己调整。</p></article>
         <article><span>03</span><h3>照自己的节奏听</h3><p>设置播放顺序与次数，循环想听清的句子或片段。</p></article>
       </div>
@@ -165,7 +165,7 @@
       <p class="section-kicker">LINELOOP FOR MAC</p>
       <h2 id="download-title">下一句，<br>现在开始听懂。</h2>
       <p>下载后拖入“应用程序”，就可以把喜欢的视频变成自己的语言练习。</p>
-      <a class="button button-dark download-button" id="download-link" href="https://github.com/yvqi-dev/LineLoop-Downloads/releases/download/v1.21.3/LineLoop-1.21.3-arm64.dmg">下载 LineLoop 1.21.3 <span aria-hidden="true">↗</span></a>
+      <a class="button button-dark download-button" id="download-link" href="https://github.com/yvqi-dev/LineLoop-Downloads/releases/download/v1.22.0/LineLoop-1.22.0-arm64.dmg">下载 LineLoop 1.22.0 <span aria-hidden="true">↗</span></a>
       <small>Apple 芯片 · macOS 15 或更新版本</small>
     </section>
   </main>

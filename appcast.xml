@@ -4,17 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>LineLoop</title>
         <item>
-            <title>1.21.3</title>
-            <pubDate>Thu, 15 Oct 2026 13:58:36 +0800</pubDate>
+            <title>1.22.0</title>
+            <pubDate>Thu, 29 Oct 2026 21:46:50 +0800</pubDate>
             <link>https://yvqi-dev.github.io/LineLoop-Downloads/</link>
-            <sparkle:version>32</sparkle:version>
-            <sparkle:shortVersionString>1.21.3</sparkle:shortVersionString>
+            <sparkle:version>33</sparkle:version>
+            <sparkle:shortVersionString>1.22.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/yvqi-dev/LineLoop-Downloads/releases/download/v1.21.3/LineLoop-1.21.3-arm64.dmg" length="238582402" type="application/octet-stream" sparkle:edSignature="F+Hki4WF03ReyBic/6JF2hasrFm9JCvPbtJ3yXy13ybPWatyP9QO5v7BQDJ1lwiXTfqCz8TSqa8jeeWvlYM+Cg=="></enclosure>
+            <enclosure url="https://github.com/yvqi-dev/LineLoop-Downloads/releases/download/v1.22.0/LineLoop-1.22.0-arm64.dmg" length="238768959" type="application/octet-stream" sparkle:edSignature="7zlbXtp6ZEQlDIQjQTfTSw6Xn+avMVCyTmtFpn8wrts+T5f5SR8aOQzFgfYyGcOo2lTBnNsHOy0guCrtfTHsAg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: lbYIRiylC/7CevXmnJVfGIZnwOxtCi1fGSg0S0CewscTbijzy97vPBUNMOe2mRzOFvwT01jHlgOKotMUp5t9AA==
+edSignature: AwlTX1VtDBa7p2h+zypLeLlgMBgAxIv/PtbjZL5M2UL+yKxQoDPWpAHpNTaxh5GTuM+px8A8RKzH6DOvdD3LAQ==
 length: 1215
 -->

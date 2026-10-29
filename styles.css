@@ -39,6 +39,7 @@ mark{background:#b7f184;color:inherit;border-radius:.13em;padding:0 .06em}
 .eyebrow{margin-bottom:21px}
 .eyebrow-dot,.live-dot,.foot-dot{width:8px;height:8px;border-radius:50%;background:var(--green);display:inline-block;flex:none}
 .hero h1{font-size:clamp(53px,6vw,84px);font-weight:880;line-height:1.15;letter-spacing:-.075em;margin:0 auto 20px}
+html:not([lang^="zh"]) :is(.hero h1,.intro h2,.feature-copy h2,.steps-section h2,.faq-section h2,.download-section h2){letter-spacing:-.015em;word-spacing:.06em}
 .hero h1 span{color:#31864d}
 .hero-lead{font-size:18px;line-height:1.85;color:#415c4d;margin:0 auto;max-width:750px}
 .hero-actions{display:flex;align-items:center;justify-content:center;gap:27px;margin-top:30px}
